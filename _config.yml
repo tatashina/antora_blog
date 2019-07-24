@@ -17,8 +17,8 @@ title: Antora Blog
 email: anna.tatashina@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Good luck & have fun!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/antora_blog" # the subpath of your site, e.g. /blog
+url: "https://tatashina.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: tatashina
 telegram_username: Ant0ra
 
